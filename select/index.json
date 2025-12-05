@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "L！L！L！ (Love the Life We Live)",
+  "base_artist": "虹ヶ咲学園スクールアイドル同好会",
+  "createdAt": "2025-12-05T02:46:44.339048Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "L! L! L! (Love the Life We Live)",
+      "artist": "虹ヶ咲学園スクールアイドル同好会",
+      "has_synced": true,
+      "path": "select/01_L!_L!_L!_(Love_the_Life_We_Live)_虹ヶ咲学園スクールアイドル同好会.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "L！L！L！ (Love the Life We Live)",
+      "artist": "虹ヶ咲学園スクールアイドル同好会",
+      "has_synced": true,
+      "path": "select/02_L!L!L!_(Love_the_Life_We_Live)_虹ヶ咲学園スクールアイドル同好会.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "L！L！L！ (Love the Life We Live)",
+      "artist": "Nijigasaki High School Idol Club",
+      "has_synced": true,
+      "path": "select/03_L!L!L!_(Love_the_Life_We_Live)_Nijigasaki_High_School_Idol_Club.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "L!L!L! (Love the Life We Live)",
+      "artist": "虹ヶ咲学園スクールアイドル同好会",
+      "has_synced": false,
+      "path": "select/pl_01_L!L!L!_(Love_the_Life_We_Live)_虹ヶ咲学園スクールアイドル同好会.txt"
+    }
+  ]
+}
